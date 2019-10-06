@@ -1,2 +1,2 @@
-# lauz.github.io
+# claylau.github.io
 my web blog
